@@ -2,7 +2,7 @@ repo_name: 2lambda123/ACE3
 report_id: 1920a22956c143a9e5a50233995a897f
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:32:28+00:00'
+timestamp: '2024-01-05T08:14:11+00:00'
 requested_by: Riott
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/ACE3
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/2lambda123/ACE3
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/docs/js/footer.dev.js
   detection_source: docs/js/footer.dev.js
   last_updated_by: Jo David
   last_updated_on: 2021-10-25 02:26:31.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/ACE3
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -58,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/docs/Gemfile
   detection_source: docs/Gemfile
   last_updated_by: bux578
   last_updated_on: 2016-08-18 16:37:38.000000000 Z
@@ -70,6 +75,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/docs/src/package.json
   detection_source: docs/src/package.json
   last_updated_by: bux578
   last_updated_on: 2016-08-18 16:37:38.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/ACE3
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -91,6 +98,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/docs/Dockerfile
   detection_source: docs/Dockerfile
   last_updated_by: bux578
   last_updated_on: 2016-10-16 08:48:14.000000000 Z
@@ -102,6 +110,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/ACE3
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -111,6 +120,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/.github/workflows/arma.yml
   detection_source: ".github/workflows/arma.yml"
   last_updated_by: jonpas
   last_updated_on: 2023-04-30 21:03:35.000000000 Z
@@ -135,6 +145,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/docs/Gemfile
   detection_source: docs/Gemfile
   last_updated_by: bux578
   last_updated_on: 2016-08-18 16:37:38.000000000 Z
@@ -146,6 +157,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/docs/src/package.json
   detection_source: docs/src/package.json
   last_updated_by: bux578
   last_updated_on: 2016-08-18 16:37:38.000000000 Z
@@ -255,6 +267,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/2lambda123/ACE3/blob/master/docs/Gemfile
   detection_source: docs/Gemfile
   last_updated_by: bux578
   last_updated_on: 2016-08-18 16:37:38.000000000 Z
